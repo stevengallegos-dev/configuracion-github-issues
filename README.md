@@ -1,21 +1,62 @@
-# configuracion-github-issues
-# Práctica: Configuración de GitHub y Plantilla de Issues
-
 ## Autor
 Steven Gallegos 
 ##
 Ingeniería de Software 
 
-## Propósito de la práctica
-Este repositorio se utiliza para una práctica de Aseguramiento de Calidad de Software cuyo objetivo es aprender a configurar un repositorio profesional en GitHub, organizar su estructura inicial y crear una plantilla estandarizada de issues.
+LePetitDep
+Descripción del Proyecto
 
-## Objetivos de aprendizaje
-- Configurar un repositorio en GitHub.
-- Comprender la estructura mínima recomendada para un proyecto de software.
-- Crear y utilizar plantillas de issues para gestionar tareas, bugs y mejoras.
-- Aplicar principios básicos de documentación y control de versiones.
+LePetitDep es una aplicación web ficticia que permite a los usuarios realizar pedidos de café y productos de panadería para recogerlos posteriormente en el local.
 
-## Estructura del repositorio
-- docs: documentación general del proyecto.
-- src: carpeta destinada al código fuente.
+La aplicación ofrece una experiencia sencilla e intuitiva para explorar el menú, agregar productos al carrito, realizar pedidos y consultar compras anteriores.
+
+Objetivos del Proyecto
+Permitir el registro de nuevos usuarios.
+Proporcionar acceso seguro mediante inicio de sesión.
+Facilitar la exploración del catálogo de productos.
+Permitir la selección de productos y cantidades.
+Gestionar pedidos de manera sencilla.
+Mantener un historial de compras realizadas.
+Funcionalidades Implementadas
+Registro de Usuario
+
+Permite crear una cuenta utilizando correo electrónico y contraseña.
+
+Inicio de Sesión
+
+Permite acceder de forma segura mediante validación de credenciales.
+
+Explorar Menú
+
+Permite visualizar cafés y productos de panadería con sus precios y descripciones.
+
+Agregar Productos al Carrito
+
+Permite seleccionar productos y cantidades antes de realizar la compra.
+
+Realizar Pedido
+
+Permite confirmar la compra, seleccionar un método de pago simulado y generar un número de orden.
+
+Historial de Pedidos
+
+Permite consultar pedidos realizados anteriormente.
+
+Estructura del Repositorio
+
+historias_usuario/
+
+├── historia_1.md
+
+├── historia_2.md
+
+├── historia_3.md
+
+├── historia_4.md
+
+├── historia_5.md
+
+├── historia_6.md
+
+└── README.md
 - tests: carpeta para pruebas manuales o automatizadas.
