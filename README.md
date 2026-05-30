@@ -1,9 +1,10 @@
+# LePetitDep
+
 ## Autor
 Steven Gallegos 
 ##
+## Carrera 
 Ingeniería de Software 
-
-# LePetitDep
 
 ### Descripción del Proyecto
 
