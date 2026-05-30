@@ -45,13 +45,13 @@ Permite consultar pedidos realizados anteriormente.
 
 ```text
 configuracion-github-issues
-└── historias_usuario
-    ├── historia_1.md
-    ├── historia_2.md
-    ├── historia_3.md
-    ├── historia_4.md
-    ├── historia_5.md
-    ├── historia_6.md
-    └── README.md
+├── historias_usuario
+│   ├── historia_1.md
+│   ├── historia_2.md
+│   ├── historia_3.md
+│   ├── historia_4.md
+│   ├── historia_5.md
+│   ├── historia_6.md
+└── README.md
 ```
 
