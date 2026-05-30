@@ -42,8 +42,6 @@ Permite consultar pedidos realizados anteriormente.
 
 ### Estructura del Repositorio
 
-### Estructura del Repositorio
-
 ```text
 historias_usuario/
 ├── historia_1.md
